@@ -1,9 +1,9 @@
 .videosidebar{
     position: absolute;
     top: 50%;
-    right: 10px;
+    /* 50% da borda a partir da borada superiror*/
+    right: 20px;
     color: white;
-
 }
 
 .videosidebar__options{
