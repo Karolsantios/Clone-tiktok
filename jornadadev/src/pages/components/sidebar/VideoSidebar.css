@@ -1,12 +1,13 @@
-.videosidebar{
+
+.videosidebar {
     position: absolute;
-    top: 50%;
-    /* 50% da borda a partir da borada superiror*/
-    right: 20px;
+    top: 35%;
+    right: 1px;
     color: white;
 }
 
-.videosidebar__options{
+.videosidebar__options {
     padding: 20px;
     text-align: center;
+    
 }
